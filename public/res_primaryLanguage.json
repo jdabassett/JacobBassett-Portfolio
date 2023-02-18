@@ -117,6 +117,18 @@
           "MongoDB",
           "Python3"
         ]
+      },
+      {
+        "company": "Institute for Systems Biology",
+        "title": "Research Associate III",
+        "years": "01.2021 - 11.2022",
+        "mainTech": [
+          "Self-Study"
+        ],
+        "technologies": [
+          "R",
+          "Python3"
+        ]
       }
     ]
   }
