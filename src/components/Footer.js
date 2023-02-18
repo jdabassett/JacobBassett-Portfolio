@@ -21,7 +21,7 @@ class Footer extends Component {
             <div className="col social-links">{networks}</div>
 
             
-            {/* For choosing other languages
+            
             <div className="col">
               <div 
                 onClick={() =>
@@ -55,8 +55,8 @@ class Footer extends Component {
                   id={window.$secondaryLanguageIconId}
                 ></span>
               </div>
-            </div> */}
-            
+            </div>
+
             <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
