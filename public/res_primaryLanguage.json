@@ -10,71 +10,93 @@
       }
     },
     "projects": [
+
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "",
+        "startDate": "",
+        "description": "",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "",
+          ""
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Quizzical",
+        "startDate": "01-2023",
+        "description": "This was my first website built from data returned from an API. Note that all data is fetched from the Open Trivia Database, user results persist locally between visits, and all CSS is accomplished without Bootstrap.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/quizzical/quizzical_landing_1060x1246.png",
+          "images/quizzical/quizzical_quiz_1060x1246.png",
+          "images/quizzical/quizzical_results_1060x1246.png"
         ],
-        "url": "https://github.com",
+        "url": "https://animated-axolotl-a2d662.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Tenzie",
+        "startDate": "01-2023",
+        "description": "Of all the site I have developed, this is my mother's favorite. :) Note that user results persist locally between visits and all CSS is accomplished without Bootstrap.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/tenzie/tenzie_landing_1188x954.png",
+          "images/tenzie/tenzie_results_1188x954.png"
         ],
-        "url": "https://github.com",
+        "url": "https://steady-squirrel-fc0564.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Meme Generator",
+        "startDate": "01-2023",
+        "description": "This was the first project in my learning React journey. Honestly this is the first project were I could see the path to make fully dynamic and scaleable websites. It was a very exciting epiphany!",
+        "images": [
+          "images/meme-generator/meme-generator_landing_1352x1152.png"
+        ],
+        "url": "https://gleaming-melomakarona-f3a2d5.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Slot Machine",
+        "startDate": "12-2022",
+        "description": "This was the first website that I developed with a team. We took it from wireframe to publication, building, and troubleshooting together. My biggest contribution would be the CSS of the slot machine.",
+        "images": [
+          "images/slot-machine/slotmachine_index.png",
+          "images/slot-machine/slotmachine_performance.png",
+          "images/slot-machine/slotmachine_resources.png"
+        ],
+        "url": "https://team-vi.github.io/FVI/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "css3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
