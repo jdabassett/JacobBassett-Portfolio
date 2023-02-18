@@ -1,20 +1,25 @@
 {
     "basic_info": {
       "name": "Jacob Bassett",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-Stack Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jdabassett",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jacobbassett/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/bassett_jacob",
+          "class": "fab fa-twitter"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "jacob-bassett_color.jpg"
     },
     "skills": {
       "icons": [
