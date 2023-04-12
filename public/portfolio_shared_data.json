@@ -34,11 +34,6 @@
           "level": "95"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
@@ -51,6 +46,11 @@
         {
           "name": "Python",
           "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "90"
         }
       ]

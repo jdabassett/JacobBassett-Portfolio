@@ -10,7 +10,6 @@
       }
     },
     "projects": [
-
       {
         "title": "",
         "startDate": "",
@@ -24,6 +23,38 @@
           {
             "class": "",
             "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Picture Store",
+        "startDate": "03.2023",
+        "description": "This site relys heavily on React-Context and React-Router. Its a simple 'picture store' that allows users to favorite pictures, add items to their cart, and proceed to checkout. I had a lot of fun building this one. A lot of concepts came together as I learned to build it.",
+        "images": [
+          "images/pic-store/pic-store-select_1710x862.png",
+          "images/pic-store/pic-store-checkout_1724x733.png"
+        ],
+        "url": "https://golden-mousse-db6931.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Speed Typing",
+        "startDate": "02.2023",
+        "description": "This site is just more practice working with React and managing state.",
+        "images": [
+          "images/speed-typing/speed-typing_865x860.png",
+          "images/speed-typing/speed-typing-ending_865x860.png"
+        ],
+        "url": "https://coruscating-souffle-69204b.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       },
