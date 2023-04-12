@@ -11,25 +11,9 @@
     },
     "projects": [
       {
-        "title": "",
-        "startDate": "",
-        "description": "",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
         "title": "Picture Store",
         "startDate": "03.2023",
-        "description": "This site relys heavily on React-Context and React-Router. Its a simple 'picture store' that allows users to favorite pictures, add items to their cart, and proceed to checkout. I had a lot of fun building this one. A lot of concepts came together as I learned to build it.",
+        "description": "This site relys heavily on React-Context and React-Router. Its a simple 'picture store' that allows users to favorite pictures, add items to their cart and proceed to checkout. I had a lot of fun building this one. A lot of concepts came together while I was building it.",
         "images": [
           "images/pic-store/pic-store-select_1710x862.png",
           "images/pic-store/pic-store-checkout_1724x733.png"
