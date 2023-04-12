@@ -249,7 +249,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background: #247ba0 !important;
+
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -261,15 +261,14 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #247ba0!important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	// outline:2px solid red;
 }
 
-.badge-background {
-	background-color:red !important;
+.badge-light.mr-2.mb-2 {
+	background-color:#247ba0 !important;
 }
 
 .vertical-timeline-element-date {
