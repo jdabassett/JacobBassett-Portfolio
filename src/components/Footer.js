@@ -23,7 +23,7 @@ class Footer extends Component {
             
             
             <div className="col">
-              <div 
+              {/* <div 
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$primaryLanguage,
@@ -38,8 +38,8 @@ class Footer extends Component {
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
                 ></span>
-              </div>
-              <div 
+              </div> */}
+              {/* <div 
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$secondaryLanguage,
@@ -54,7 +54,7 @@ class Footer extends Component {
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
-              </div>
+              </div> */}
             </div>
 
             <div className="col">
